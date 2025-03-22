@@ -8,8 +8,7 @@ async function main(): Promise<void> {
   console.log(
     chalk.cyan(`
       FLOW3 AUTO REFER
-      
-      Join Telegram Channel: https://t.me/D4rkCipherX
+  Join Telegram Channel: https://t.me/D4rkCipherX
   `)
   );
 
