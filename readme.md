@@ -2,7 +2,7 @@
 
 This bot automates the process of creating accounts and using referral codes for the Flow3 Website
 
-# Flow3 Network Mining Script ~ https://t.me/D4rkCipherX/438
+## Flow3 Network Mining Script ~ https://t.me/D4rkCipherX/438
 
 ## Features
 
